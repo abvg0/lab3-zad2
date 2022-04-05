@@ -1,0 +1,26 @@
+body {
+    background-color: #f8f8f8;
+    text-align: left;
+}
+h2 {
+    color: #000;
+    font-size: 18px;
+    font-weight: 400;
+    background-color: #eaeaea;
+}
+li {
+    color: #707070;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 16px;
+}
+p2 {
+    color: #484343;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+}
+img {
+    border: 3px solid grey;
+    border-radius: 5%;

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>"Беспроводные наушники Apple AirPods Max(MGYN3RU/A)"</title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+   .leftimg {
+    float:left; 
+    margin: 7px 7px 7px 0; 
+   }
+   .rightimg  {
+    float: right;
+    margin: 7px 0 7px 7px;
+   }
+  </style>
+ </head>
+<header>
+ <h1>Беспроводные наушники Apple AirPods Max(MGYN3RU/A)</h1>
+ <h1>Описание товара</h1>
+</header>
+ <body>
+  <p1><img src="наушники.png" alt="наушники Apple AirPods Max" width="550" height="500" class="leftimg">
+     <h2>Краткое описания товара </h2>
+     <li>Цвет Зеленый</li> 
+     <li>Вид наушников  Полноразмерные</li> 
+     <li>Функциональные возможности  Микровон с шумоподавлением,Регулировка громкости</li> 
+     <li>Высота  187.3 мм</li> 
+     <li>Шириа   168.6 мм</li> 
+     <li>Толщина 83.4 мм</li> 
+     <li>Вес     384.8 г</li></p1>
+</body>
+<main>
+ <div class="perenos">
+ <p2><h2>Подробное описание товара</h2>
+   Bluetooth-наушники Apple AirPods Max – гармоничное воплощение качественного объёмного звука, удобства и элегантного дизайна. Технология пространственного аудио позволит насладиться эффектом присутствия как в настоящем кинотеатре.</div></p2>
+</main>
+<p><mov src = "соло.mov"></p>
+<footer>
+ <hr>
+ <p3 align="center">
+    Все права защищены</p3>
+</footer>
+</html> 
