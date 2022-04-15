@@ -24,3 +24,13 @@ p2 {
 img {
     border: 3px solid grey;
     border-radius: 5%;
+<style>
+   .leftimg {
+    float:left; 
+    margin: 7px 7px 7px 0; 
+   }
+   .rightimg  {
+    float: right;
+    margin: 7px 0 7px 7px;
+   }
+  </style>
